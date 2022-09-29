@@ -4,6 +4,7 @@ function hello_world(num) {
     } else {
       return "Hello Odd World"
     }
+    console.log('xx')
 }
 
 module.exports = hello_world;
